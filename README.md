@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/lnvnx2m5l1o9ljlw?svg=true)](https://ci.appveyor.com/project/FURSADMIT/authorizationapi)
